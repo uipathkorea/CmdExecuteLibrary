@@ -1,7 +1,7 @@
 {
-  "name": "CmdExecuter",
+  "name": "CmdExecutor",
   "description": "CMD Execute Library ",
-  "main": "NewActivity.xaml",
+  "main": "ExecuteCommand.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "2.5.4",
     "UiPath.Mail.Activities": "1.4.1",
