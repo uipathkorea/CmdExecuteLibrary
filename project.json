@@ -3,10 +3,7 @@
   "description": "CMD Execute Library ",
   "main": "ExecuteCommand.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "2.5.4",
-    "UiPath.Mail.Activities": "1.4.1",
-    "UiPath.System.Activities": "19.4.1",
-    "UiPath.UIAutomation.Activities": "19.4.2"
+    "UiPath.System.Activities": "19.4.1"
   },
   "schemaVersion": "3.2",
   "studioVersion": "19.4.4.0",
